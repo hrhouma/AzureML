@@ -84,7 +84,7 @@ az_dstore = Datastore.register_azure_blob_container(
     datastore_name='azureml_sdk_blob', 
     account_name='azuremlsdkst',
     container_name='azureml-blob-container',
-    account_key='ydvDRe71rAO+gcWZz4DESU9Y87Qvnekge/Li8cwCusB/BqhEewPN840W3kw2GSfdtG8z+rpNov9l+ASt1WiAWg==')
+    account_key='remplAcerMoi-JeNeSersArienY87Qvnekge/Li8cwCusB/BqhEnimportequoi==')
 ```
 
 Les paramètres requis sont :
