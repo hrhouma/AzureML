@@ -1,4 +1,4 @@
-### **Cours sur l'Architecture et la Configuration d'un Espace de Travail Azure ML**
+# **Cours sur l'Architecture et la Configuration d'un Espace de Travail Azure ML**
 
 # **Section 1 : Dépendances de l'Espace de Travail**
 
