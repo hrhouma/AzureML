@@ -1,3 +1,5 @@
+# **Cours sur l'Architecture et la Configuration d'un Espace de Travail Azure ML**
+
 # Introduction
 
 Je vous présente une description détaillée, étape par étape, des actions que l'utilisateur doit entreprendre pour configurer un espace de travail Azure ML, ainsi que ce qui se passe en arrière-plan à chaque étape.
