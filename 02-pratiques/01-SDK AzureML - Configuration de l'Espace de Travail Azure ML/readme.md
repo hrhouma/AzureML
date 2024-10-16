@@ -52,4 +52,16 @@ Si vous avez besoin de travailler localement, voici les étapes pour configurer 
    # azureml_env\Scripts\python.exe -m pip install ipykernel -U --force-reinstall
    ```
 
+---------------------
+# Résumé des commandes :
+---------------------
 
+```bash
+#! pip install virtualenv
+#python3.9 -m venv azureml_env
+#azureml_env\Scripts\activate
+#python3.9 --version
+#python --version
+#pip install azureml-sdk
+# azureml_env\Scripts\python.exe -m pip install ipykernel -U --force-reinstall
+```
