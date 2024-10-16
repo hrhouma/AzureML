@@ -104,7 +104,7 @@ Pour créer un nouvel espace de travail, vous devez utiliser la méthode `Worksp
 
 ```python
 ws = Workspace.create(name='azureml-sdk-ws', 
-                      subscription_id='d7c1d699-a25d-4ef8-a883-94e06f72ffce',
+                      subscription_id='remplacer-moi125-4ef8-a883-jeneserasrien',
                       resource_group='azureml-sdk-rg', 
                       create_resource_group=True,
                       location='westus')
